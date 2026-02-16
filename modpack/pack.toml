@@ -1,0 +1,13 @@
+name = "Westridge"
+author = "Alexander Keith"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "059daedf23b6a569cae2f4afbe56944beffdc9385df09aa3a46f4c14a7f7eb20"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

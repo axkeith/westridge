@@ -1,0 +1,13 @@
+name = "AudioPlayer Blanks"
+filename = "audioplayerblanks-1.21.11-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RaOHe2fS/versions/pxIajQNs/audioplayerblanks-1.21.11-1.0.2.jar"
+hash-format = "sha512"
+hash = "d5ebbe3576261209f5a9bb6237892d897cde2d05e52f9f6c8259ffb9a8c2f5d3c78fb2d7caaffe8c814176df6a58adf54fc6f2c715c84a5a981ad1948c42add8"
+
+[update]
+[update.modrinth]
+mod-id = "RaOHe2fS"
+version = "pxIajQNs"

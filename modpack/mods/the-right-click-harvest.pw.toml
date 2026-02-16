@@ -1,0 +1,13 @@
+name = "The Right Click Harvest"
+filename = "right-click-harvest-1.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iUubGbjR/versions/9w7gX7EH/right-click-harvest-1.5.0.jar"
+hash-format = "sha512"
+hash = "6b000928d864b47cf2d1ed2ce2360f82ffdf460d6f864ef18a0d9fa94bafdbd55f265f2fa76a136e215fa3d9152c234e26ef5b68bce5437e4345953b394ee21d"
+
+[update]
+[update.modrinth]
+mod-id = "iUubGbjR"
+version = "9w7gX7EH"

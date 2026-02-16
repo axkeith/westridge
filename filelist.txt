@@ -1,0 +1,18 @@
+D:\Projects\modpack\modpack\datapacks\age lock v1.0.0 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\anti enderman grief v1.1.15 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\anti ghast grief v1.1.15 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\armored elytra v2.0.9 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\painting picker v1.1.2 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\pk_no_creeper_grief_V.3.0.1_mc_1.21.11.zip
+D:\Projects\modpack\modpack\datapacks\silence mobs v1.2.9 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\villager workstation highlights v1.1.15 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\datapacks\wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip
+D:\Projects\modpack\modpack\resourcepacks\3d-crops.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\better-lanterns.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\better-leaves.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\even-better-enchants.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\fresh-animations.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\mandalas-gui-dark-mode.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\rays-3d-ladders.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\rays-3d-rails.pw.toml
+D:\Projects\modpack\modpack\resourcepacks\VanillaTweaks_r710267_MC1.21.x.zip

@@ -1,0 +1,13 @@
+name = "Auto Clicker"
+filename = "autoclicker-fabric-21.11.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r8axuw4u/versions/IOrjk4pM/autoclicker-fabric-21.11.0.jar"
+hash-format = "sha512"
+hash = "8c9198cb227d640833b3cbcfce999967897a0a7efb6c6b1f3bfc05ba2b7ac23a58827fff7183f446149bdd296427782070b0eb2cca4da983d937b6a00b7820d4"
+
+[update]
+[update.modrinth]
+mod-id = "r8axuw4u"
+version = "IOrjk4pM"

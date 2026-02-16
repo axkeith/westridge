@@ -1,0 +1,13 @@
+name = "XPlus Autofish (Fabric / Forge / NeoForge)"
+filename = "XPlus-AutoFish-1.4.1-fabric-mc1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2H1rLgy4/versions/CIuvDK9b/XPlus-AutoFish-1.4.1-fabric-mc1.21.9.jar"
+hash-format = "sha512"
+hash = "9cf47c9acf5f49bf464da9e77ad472f74b1662c7945c11eaec3e66fcd89b2a475f9cc6c008fed74c9bc6260d7f084a2fa8d2184732328998c00f52b1ad7ba5a3"
+
+[update]
+[update.modrinth]
+mod-id = "2H1rLgy4"
+version = "CIuvDK9b"

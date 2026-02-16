@@ -1,0 +1,1 @@
+Westridge is a meticulously curated Minecraft 1.21.11 modpack designed for a premium vanilla+ experience. Built on Fabric/Quilt for peak performance, it features an immersive audio overhaul, seamless social integration with Simple Voice Chat, and various QoL improvements. Efficiently managed with Packwiz for easy updates and deployment.

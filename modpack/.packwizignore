@@ -3,3 +3,10 @@
 
 # Exclude README
 /README.md
+
+# Exclude runtime data
+/saves/
+/logs/
+/debug/
+/crash-reports/
+/packwiz.exe

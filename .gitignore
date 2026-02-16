@@ -6,3 +6,10 @@
 
 # Exclude executable files
 *.exe
+
+# Minecraft / Packwiz
+modpack/saves/
+
+# OS specific files
+.DS_Store
+Thumbs.db
